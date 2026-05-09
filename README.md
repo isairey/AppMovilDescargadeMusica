@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/badge/Android-Supported-success?style=for-the-badge&logo=android">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge">
   <img src="https://img.shields.io/badge/No%20Ads-100%25-red?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/isairey/Musify?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/isairey/Musify?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/isairey/AppMovilDescargadeMusica?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/isairey/AppMovilDescargadeMusica?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -45,9 +45,9 @@ Musify ofrece búsqueda online, reproducción de alta calidad, descargas locales
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/01.jpg" width="30%"/>
-<img src="https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/02.jpg" width="30%"/>
-<img src="https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/03.jpg" width="30%"/>
+<img src="https://raw.githubusercontent.com/isairey/AppMovilDescargadeMusica/main/fastlane/metadata/android/en-US/images/phoneScreenshots/01.jpg" width="30%"/>
+<img src="https://raw.githubusercontent.com/isairey/AppMovilDescargadeMusica/main/fastlane/metadata/android/en-US/images/phoneScreenshots/02.jpg" width="30%"/>
+<img src="https://raw.githubusercontent.com/isairey/AppMovilDescargadeMusica/main/fastlane/metadata/android/en-US/images/phoneScreenshots/03.jpg" width="30%"/>
 
 </div>
 
@@ -197,8 +197,8 @@ Musify/
 ## 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/isairey/Musify.git
-cd Musify
+git clone https://github.com/isairey/AppMovilDescargadeMusica.git
+cd AppMovilDescargadeMusica
 ```
 
 ---
