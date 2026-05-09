@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="150" src="https://github.com/gokadzev/Musify/raw/master/android/app/src/main/res/mipmap-xxxhdpi/launcher_icon.png" />
+<img width="150" src="https://github.com/isairey/AppMovilDescargadeMusica/raw/main/android/app/src/main/res/mipmap-xxxhdpi/launcher_icon.png" />
 
 # 🎵 Musify
 
