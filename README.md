@@ -109,7 +109,7 @@ Musify ofrece búsqueda online, reproducción de alta calidad, descargas locales
 
 <div align="center">
 
-https://user-images.githubusercontent.com/demo/musify-demo.mp4
+<a href="https://github.com/gokadzev/Musify/releases"><img alt="GitHub release" src="https://img.shields.io/github/v/release/gokadzev/Musify"/></a>
 
 </div>
 
